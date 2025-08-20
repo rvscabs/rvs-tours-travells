@@ -34,6 +34,9 @@ export class GalleryComponent {
     'assets/gallery24.jpeg',
     'assets/gallery25.jpeg',
     'assets/gallery26.jpeg',
+    'assets/gallery27.jpeg',
+    'assets/gallery28.jpeg',
+    'assets/gallery29.jpeg',
   ];
   lightboxOpen = false;
   currentIndex = 0;
